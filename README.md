@@ -14,7 +14,7 @@ Figma: https://www.figma.com/file/GnBvCQzzg6LsIcOM3Z7DUW/RocketCoffee-(Copy)
 Portrait
 ![simulator_screenshot_5B973680-7EE2-4C7D-9EF1-651D2B7471BB](https://user-images.githubusercontent.com/73067717/158858398-50c3d312-9dc1-4b0b-8af1-7e7d9e8caf2b.png)
 
-Landscape (Scrolabble)
+Landscape (Scrollable)
 ![simulator_screenshot_8100CB53-7FCA-4D78-9FE9-7DFE137F321C](https://user-images.githubusercontent.com/73067717/158858653-ee6901b5-9807-4a0c-9ed2-ec59aec6a9d6.png)
 
 ### Menu
